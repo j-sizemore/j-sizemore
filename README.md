@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
+- 🌱 I’m currently learning web development using HTML, CSS, and JavaScript
+- 💬 Ask me about why I'm learning software development
+- 😄 Pronouns: she/they
 
 <!--
 **j-sizemore/j-sizemore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
